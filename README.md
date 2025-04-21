@@ -1,6 +1,6 @@
 ## RA-BLS
 
-This repository contains the implementation of RA-BLS.
+This repository contains the code and datasets of RA-BLS
 
 ## Environment
 
