@@ -1,5 +1,25 @@
-# RABLS-Residual-Attention-Broad-Learning-System
-The code of RABLS will be updated here when the paper is publicized.
+## RA-BLS
+
+This repository contains the implementation of RA-BLS.
+
+## Environment
+
+The code is implemented and tested in MATLAB R2021a.
+
+## Datasets
+
+The datasets used in our paper can be downloaded from the following link:
+https://pan.baidu.com/s/1BkaezIrpW8Hhzn57liuPTw?pwd=fjha
+
+## Reproducibility
+
+To ensure experimental reproducibility, random seeds have been fixed in the code. Running the provided files will directly reproduce the experimental results reported in the paper:
+
+- MNIST: 99.02%
+- FASHION-MNIST: 91.07%
+- NORB: 92.33%
+
+Note: By adjusting the random seeds, even higher accuracy can be achieved in the experiments.
 
 ## Citation
 
