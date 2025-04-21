@@ -19,7 +19,7 @@ To ensure experimental reproducibility, random seeds have been fixed in the code
 - FASHION-MNIST: 91.07%
 - NORB: 92.33%
 
-Note: By adjusting the random seeds, even higher accuracy can be achieved in the experiments.
+Note: By adjusting the random seeds, even higher accuracy can be achieved.
 
 ## Citation
 
